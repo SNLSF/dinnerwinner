@@ -35,10 +35,19 @@ For our final project at Dev Bootcamp, we wanted to give restaurant owners a sma
 - Curtis Seaton
 
 ## Restaurant Experience
-
+![Accepted Deals Today](mock-ups/business-accepted-deals.png)
+![Deal Templates](mock-ups/business-deal-templates.png)
+![Create a new Deal Template](mock-ups/business-create-template.png)
+![Pick an Offer](mock-ups/business-pick-offer.png)
+![Mass Deals Offered](mock-ups/business-mass-deals.png)
 
 ## Customer Experience
-
+![Accepted Deals](mock-ups/customer-accepted-deals.png)
+![Request Deal](mock-ups/customer-request-deal.png)
+![Accepted Deals](mock-ups/customer-accepted-deals.png)
+![Todays Deals](mock-ups/customer-todays-deals.png)
+![Mass Deals](mock-ups/customer-mass-deals.png)
+![View the Restaurant](mock-ups/customer-view-business.png)
 
 ## Wireframes
 ![Homepage of Customer View and Business Link](mock-ups/customer_homepage.png)
