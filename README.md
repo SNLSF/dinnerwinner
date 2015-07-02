@@ -8,19 +8,19 @@ The mass deals market is fatally flawed. It forces local businesses to slash pri
 For our final project at Dev Bootcamp, we wanted to give restaurant owners a smart marketing tool that reaches the right audience at the right time.  Dinner Winner users tell us when they're hungry, what neighborhood they want to dine in, and how many people are in their party.  If the restaurant is located in their desired neighborhood, the business will be given the opportunity to bid on their patronage with unique offers.  Restaurants can proactively bring in business with Mass Deals that expire daily.
 	
 ## Strech Goals
-	* A user will have the deal sent to their Passbook
-	* A user can target restaurants within x miles of current location
+* A user will have the deal sent to their Passbook
+* A user can target restaurants within x miles of current location
 	 
 ## Technologies
-	* Twilio
-	* Devise for authentications
-	* Handlebars
-	* Ruby on Rails
-	* Javascript
+* Twilio
+* Devise for authentications
+* Handlebars
+* Ruby on Rails
+* Javascript
 	
 ## API's
-	* Yelp
-	* Google OAuth
+* Yelp
+* Google OAuth
 	
 ## Gems
 - [Devise](https://github.com/plataformatec/devise)
