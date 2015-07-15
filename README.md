@@ -6,6 +6,8 @@ Winner Winner, Chicken Dinner!
 The mass deals market is fatally flawed. It forces local businesses to slash prices creating a sudden surge in demand they aren't equipped to meet.  The end result is a bad user experience for both the businesses and the consumers.  
 
 For our final project at Dev Bootcamp, we wanted to give restaurant owners a smart marketing tool that reaches the right audience at the right time.  Dinner Winner users tell us when they're hungry, what neighborhood they want to dine in, and how many people are in their party.  If the restaurant is located in their desired neighborhood, the business will be given the opportunity to bid on their patronage with unique offers.  Restaurants can proactively bring in business with Mass Deals that expire daily.
+
+Watch a demo https://www.youtube.com/watch?v=M92T9hpmiHc
 	
 ## Strech Goals
 * A user will have the deal sent to their Passbook
